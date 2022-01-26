@@ -1,0 +1,38 @@
+26 36
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V 🌲 V V V V V V V V V V 🌲 V V V V V V V V V V V V V V 🌲 
+V V V V V V V V V V V V V ☻ V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V 🗑 🗑 V 🌲 V V V V 
+V V V V V V V V V 🗑 V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V C V V V V V V V V V V V 🗑 V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 🌲 V V V V 🍃 V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V T T 🗑 V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V 🗑 V V V V V T T V V V V V V V V V V 🗑 V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V 🗑 V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V 🗑 🗑 V V V V V V 
+V V V 🍃 V V V V V V V V V V V V V V V V V V V V V V 🗑 V V V V 🍃 V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V 🍃 V V V V V V V V V V V V V 
+V V V V V V V V V V 🍃 V V V V V V V V V V V V V V V V 🍃 V V V V V V V V 
+V 🌲 V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+V V V V V V 🌲 V V V V V V V V V V V V V V V V V V V V V V V V V V 🌲 V V 
+V V 🗑 V V V V V V V V V V V V V V V V V V V V V V 🗑 🌲 V V V V V V V 🌲 V 
+🌲 V V V V 🌲 V 🍃 V V V V V V V V V V V V V V V V V V V V V V V V V V 🍃 V 
+===JatekosAdatai====
+ehseg: 98
+szomjusag: 98
+===Korfigyelo====
+cselekvesekSzama: 962
+===Tuzhely====
+db: 0
+sut-e: false
+===Viztisztito====
+db: 0
+pohar: false
